@@ -163,21 +163,6 @@ Zobrazení konečného skóre a přesnosti.
 
 ---
 
-##  Screenshoty
-
-### Menu
-
-![Menu](assets/menu.png)
-
-### Hra
-
-![Gameplay](assets/gameplay.png)
-
-### Výsledky
-
-![Results](assets/results.png)
-
-> Screenshoty je potřeba doplnit do složky `assets`.
 
 ---
 
@@ -199,6 +184,6 @@ Vytvořeno jako projekt v Pythonu s využitím knihovny Pygame.
 
 ---
 
-## 📜 Licence
+##  Licence
 
 Tento projekt je určen pro vzdělávací účely.
